@@ -1,0 +1,14 @@
+C:\Users\Cliente\Desktop\injeçao de dependencia\InjecaoDependencia\obj\Debug\net9.0\InjecaoDependencia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cliente\Desktop\injeçao de dependencia\InjecaoDependencia\obj\Debug\net9.0\InjecaoDependencia.AssemblyInfoInputs.cache
+C:\Users\Cliente\Desktop\injeçao de dependencia\InjecaoDependencia\obj\Debug\net9.0\InjecaoDependencia.AssemblyInfo.cs
+C:\Users\Cliente\Desktop\injeçao de dependencia\InjecaoDependencia\obj\Debug\net9.0\InjecaoDependencia.csproj.CoreCompileInputs.cache
+C:\Users\Cliente\Desktop\injeçao de dependencia\InjecaoDependencia\bin\Debug\net9.0\InjecaoDependencia.exe
+C:\Users\Cliente\Desktop\injeçao de dependencia\InjecaoDependencia\bin\Debug\net9.0\InjecaoDependencia.deps.json
+C:\Users\Cliente\Desktop\injeçao de dependencia\InjecaoDependencia\bin\Debug\net9.0\InjecaoDependencia.runtimeconfig.json
+C:\Users\Cliente\Desktop\injeçao de dependencia\InjecaoDependencia\bin\Debug\net9.0\InjecaoDependencia.dll
+C:\Users\Cliente\Desktop\injeçao de dependencia\InjecaoDependencia\bin\Debug\net9.0\InjecaoDependencia.pdb
+C:\Users\Cliente\Desktop\injeçao de dependencia\InjecaoDependencia\obj\Debug\net9.0\InjecaoDependencia.dll
+C:\Users\Cliente\Desktop\injeçao de dependencia\InjecaoDependencia\obj\Debug\net9.0\refint\InjecaoDependencia.dll
+C:\Users\Cliente\Desktop\injeçao de dependencia\InjecaoDependencia\obj\Debug\net9.0\InjecaoDependencia.pdb
+C:\Users\Cliente\Desktop\injeçao de dependencia\InjecaoDependencia\obj\Debug\net9.0\InjecaoDependencia.genruntimeconfig.cache
+C:\Users\Cliente\Desktop\injeçao de dependencia\InjecaoDependencia\obj\Debug\net9.0\ref\InjecaoDependencia.dll
